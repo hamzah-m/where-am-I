@@ -13,6 +13,7 @@
 		B5690A8524D3B332004A258A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5690A8324D3B332004A258A /* Main.storyboard */; };
 		B5690A8724D3B334004A258A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5690A8624D3B334004A258A /* Assets.xcassets */; };
 		B5690A8A24D3B334004A258A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5690A8824D3B334004A258A /* LaunchScreen.storyboard */; };
+		B5690A9224D3B722004A258A /* IPData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5690A9124D3B722004A258A /* IPData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B5690A8624D3B334004A258A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5690A8924D3B334004A258A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5690A8B24D3B334004A258A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5690A9124D3B722004A258A /* IPData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B5690A7D24D3B332004A258A /* AppDelegate.swift */,
 				B5690A7F24D3B332004A258A /* SceneDelegate.swift */,
 				B5690A8124D3B332004A258A /* ViewController.swift */,
+				B5690A9124D3B722004A258A /* IPData.swift */,
 				B5690A8324D3B332004A258A /* Main.storyboard */,
 				B5690A8624D3B334004A258A /* Assets.xcassets */,
 				B5690A8824D3B334004A258A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				B5690A8224D3B332004A258A /* ViewController.swift in Sources */,
 				B5690A7E24D3B332004A258A /* AppDelegate.swift in Sources */,
+				B5690A9224D3B722004A258A /* IPData.swift in Sources */,
 				B5690A8024D3B332004A258A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
